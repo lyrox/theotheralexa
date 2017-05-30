@@ -1,0 +1,104 @@
+html {
+  background-color: #ffffff;
+}
+
+.header {
+  background-color: #3e475f;
+  height: auto;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+
+#main {
+  background-color: #ffffff;
+  height: 100%;
+}
+
+#menu {
+  width: 125px;
+  padding: 15px;
+  background-color: #9aacb8;
+  align: center;
+  vertical-align: top;
+  font-family: Roboto;
+}
+
+#mainbody {
+  padding: 20px;
+  vertical-align: top;
+  align: left;
+  font-family: Raleway;
+}
+
+p.menubutton {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 100px;
+}
+
+.menutable {
+  height: 100%;
+  position: fixed;
+  top: 169px;
+}
+
+.footertable {
+  width: 100%;
+  background-color: #3e475f;
+  color: #ffffff;
+  position: absolute;
+  bottom: 0;
+  font-family: Raleway;
+}
+
+a:link.button {
+  background-color: #3e475f;
+  color: #ffffff;
+  padding: 6px;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #3e475f;
+  text-decoration: none;
+}
+
+a:visited.button {
+  background-color: #3e475f;
+  color: #ffffff;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #3e475f;
+  padding: 5px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+a:hover.button {
+  background-color: #3e475f;
+  color: #ffffff;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #cb4949;
+  padding: 6px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a:link.footerbutton {
+  background-color: #3e475f;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:visted.footerbutton {
+  background-color: #3e475f;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover.footerbutton {
+  background-color: #3e475f;
+  color: #cb4949;
+  text-decoration: none;
+}

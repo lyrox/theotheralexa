@@ -1,0 +1,5 @@
+'brand' colors for website
+
+#3e475f >>>blue
+#ffffff >>>white
+#cb4949 >>>red
