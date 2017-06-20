@@ -3,6 +3,11 @@ body, html {
   height: 100%;
 }
 
+h1 {
+  font-family: Roboto;
+  font-size: 25px;
+}
+
 .header {
   background-color: #3e475f;
   height: auto;
@@ -32,6 +37,7 @@ body, html {
 
 #mainbody {
   padding: 20px;
+  padding-top: 0px;
   vertical-align: top;
   align: left;
   font-family: Raleway;
@@ -51,7 +57,7 @@ p.menubutton {
 .menutable {
   height: 100%;
   position: fixed;
-  top: 169px;
+  top: 200px;
 }
 
 .footer {
