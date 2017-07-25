@@ -46,6 +46,11 @@ h1 {
 #textbox {
   height: 100%;
   overflow: auto;
+  width: 80%;
+}
+
+#profile {
+  padding-left: 50px;
 }
 
 p.menubutton {
@@ -110,7 +115,7 @@ a:link.footerbutton {
   text-decoration: none;
 }
 
-a:visted.footerbutton {
+a:visited.footerbutton {
   background-color: #3e475f;
   color: #ffffff;
   text-decoration: none;
